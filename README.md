@@ -1,0 +1,1 @@
+This repository will contain all my practice code, mini-projects, and experiments as I learn the fundamentals of HTML, CSS, and JavaScript. I’ll be updating it regularly to track my progress and growth as a web developer.
